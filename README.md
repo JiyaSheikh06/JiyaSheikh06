@@ -86,7 +86,7 @@ Inventory management application with intelligent stock classification to help i
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=JiyaSheikh06&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=JiyaSheikh06&theme=tokyonight&hide_border=true&cache_seconds=1800"
     alt="GitHub Contribution Streak"
   />
 </p>
